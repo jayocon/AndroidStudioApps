@@ -7,7 +7,7 @@ import android.view.MenuItem;
 import android.util.Log;
 
 public class MainActivity extends AppCompatActivity {
-
+    //change made to check on Github
     private static final String TAG = "JasonsMessages";
 
     @Override
